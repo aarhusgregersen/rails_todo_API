@@ -1,24 +1,13 @@
-# README
+# Rails TODO API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I built this tutorial project in order to figure out how Rails API Endpoints actually work. 
+Turns out they're surprisingly simple!
 
-Things you may want to cover:
+I followed this guide for the build: 
+[https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-three ]
 
-* Ruby version
+You should be able to just clone the repo and spin it up (most gems are versioned, so there should be almost 0 incompatability.)
 
-* System dependencies
+For another build I would probably follow this slightly more simplistic approach:
+[https://www.codementor.io/kristophmatthews/how-to-configure-your-first-rails-rest-api-du1084ym0]
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
