@@ -11,3 +11,4 @@ You should be able to just clone the repo and spin it up (most gems are versione
 For another build I would probably follow this slightly more simplistic approach:
 [https://www.codementor.io/kristophmatthews/how-to-configure-your-first-rails-rest-api-du1084ym0]
 
+This is just to test a commit
